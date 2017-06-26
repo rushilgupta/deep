@@ -1,0 +1,6 @@
+Course: https://classroom.udacity.com/courses/ud730
+
+References:
+Off the shelf LR: http://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/
+CS231: http://cs231n.github.io/neural-networks-1/
+NN-scratch: https://beckernick.github.io/neural-network-scratch/
